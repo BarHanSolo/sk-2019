@@ -29,5 +29,5 @@ aby załączyć obrazek
 ```markdown
 ![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-![alt schemat](C:\Users\s-301-29\Downloads\network-diagram-with-drawio.jpg)
+[alt schemat](C:\Users\s-301-29\Downloads\network-diagram-with-drawio.jpg)
 ```
