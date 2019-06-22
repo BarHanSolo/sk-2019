@@ -4,9 +4,9 @@
 
 a) maska sieci:
 
-  500 urządzeń jest to ``255.255.254.0`` (/23)
+  510 urządzeń jest to ``255.255.254.0`` (/23)
   
-  5000 urządzeń jest to ``255.255.224.0`` (/19)
+  8190 urządzeń jest to ``255.255.224.0`` (/19)
   
 b) podział sieci:
   pierwsza sieć ``LAN1``: zaczyna się od IP ``172.22.128.0`` (bazowe)
@@ -26,7 +26,7 @@ auto enp0s8
 iface enp0s8 inet static
   address 172.22.128.1
   netmask 255.255.254.0
-atuo anp0s9
+auto anp0s9
 iface enp0s9 inet static
   address 172.22.160.1
   netmask 255.255.224.0
